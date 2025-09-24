@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "slug": "hello-world",
+      "title": "Hello World",
+      "excerpt": "First post in the static blog.",
+      "author": "Stefan",
+      "publishedAt": "2025-09-20T10:00:00Z",
+      "tags": ["intro", "hello"],
+      "content": "<p>Welcome to the blog! 🎉</p>"
+    }
+  ]
+  
